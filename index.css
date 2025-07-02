@@ -1,0 +1,88 @@
+@charset "utf-8";
+/* CSS Document */
+
+.bg {
+	background:
+	color: red;
+}
+
+.navbar-brand {
+	border-radius: 200px;
+}
+.text-platzi {
+	color: #97c93e !important;
+}
+
+#header img {
+	height: 60px;
+	
+}
+
+#main .carousel-inner img {
+	max-height: 70vh;	
+	
+}
+
+#carousel {
+	position: relative;
+}
+
+#carousel .overlay {
+	
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background-color: rgba(0,0,0,0.50);
+	color: white;
+}
+
+#carousel .overlay .container,
+#carousel .overlay .row {
+	height: 100%;
+}
+
+.btn-platzi{
+	background-color: #97c93e;
+	color: white;
+}
+
+.btn-platzi:hover {
+	background-color: #82ad36;
+}
+
+
+.card-img-top{
+	height: 300px;
+
+}
+
+.card-text{
+	height: 80px;
+}
+#place-time {
+	background-color: #343a40;
+	color: white;
+}
+
+#place-time img {
+	max-width: 100%;
+	
+}
+#footer {
+	background: rgba(41,37,37,1.00);
+}
+
+#footer a {
+	
+	color: white;
+	
+}
+
+#excel {
+	
+/*	background-color:rgba(30,150,12,1.00); */
+	max-width: 100%;
+
+}
